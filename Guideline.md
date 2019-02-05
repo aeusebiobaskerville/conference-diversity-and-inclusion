@@ -27,7 +27,7 @@ It can be assessed as the extent to which people are valued, respected, accepted
 
 ## 2. Why
 
-Diversity Doesn't Stick Without Inclusion. As the Harvard Business Review article put it: "In the context of the workplace, diversity equals representation. Without inclusion, however, the crucial connections that attract diverse talent, encourage their participation, foster innovation, and lead to business growth won't happen." 
+Diversity doesn't stick without inclusion. As the Harvard Business Review article put it: "In the context of the workplace, diversity equals representation. Without inclusion, however, the crucial connections that attract diverse talent, encourage their participation, foster innovation, and lead to business growth won't happen." 
 
 So, it's true that diversity and inclusion work together to affect outcomes.
 
